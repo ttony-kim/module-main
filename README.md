@@ -1,6 +1,6 @@
 Module을 주입받는 Main 프로젝트
 ===============================
-### 1. gradle.build
+### 1. build.gradle
 ```java
 dependencies {
   ...
