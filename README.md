@@ -26,5 +26,5 @@ module의 스프링 정보가 덮어씌워지는지 추가 해주지 않으면 _
 
 ### 3. RootTestContoller.java, RootEntityRepository.java, RootEntityRepository2.java
 ![image](https://github.com/ttony-kim/module-main/assets/69332203/acae2461-54d5-4c1c-ba6c-789d5c2e0957)
-
-__1개의 Entity__를 __2개의 JpaRepository__에서 접근 가능
+   
+__1개의 Entity__ 를 __2개의 JpaRepository__ 에서 접근 가능
